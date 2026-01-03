@@ -47,7 +47,7 @@ A robust AI-powered audio transcription service built with a **Containerized Mod
 * **AI:** External processing with Groq Cloud (Whisper Model).
 * **Ops:** Docker Compose orchestration with Sidecar Pattern for migrations.
 
-[Run Process >>](https://github.com/fable00/voice-memo)
+[Run Process >>](https://github.com/athena-devs/voice-memo)
 
 <br clear="right"/> 
 
