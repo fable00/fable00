@@ -56,12 +56,12 @@ A robust AI-powered audio transcription service built with a **Containerized Mod
 ### 💾 Runtime.Stats
 
 <div align="center">
-  <img src="https://github.com/fable00/fable00/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/fable00/fable00/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fable00&show_icons=true&theme=dracula&hide_border=true&count_private=true&rank_icon=github" height="150" alt="Saymon's Rank" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fable00&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="150" alt="Saymon's Rank" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fable00&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="Top Langs" />
 </div>
